@@ -21,7 +21,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br/>
-            React and Flutter
+            React and Dart
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -31,17 +31,17 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br/>
-            Node.js and Databases
+            Node.js and SQL
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
         <DiZend size="3rem"/>
         <ListContainer>
-          <ListTitle>Machine Learning</ListTitle>
+          <ListTitle>Java x C#</ListTitle>
           <ListParagraph>
-            Experience with <br/>
-            tools like Keras and PyTorch
+            As a CS graduate <br/>
+            Java, Python and C# are my everyday tools.
           </ListParagraph>
         </ListContainer>
       </ListItem>
